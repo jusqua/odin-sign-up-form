@@ -85,6 +85,11 @@ form > * {
   padding: 2rem;
 }
 
+form h2 {
+  overflow-wrap: break-line;
+  width: 640px;
+}
+
 #form-inputs {
   display: flex;
   justify-content: center;
